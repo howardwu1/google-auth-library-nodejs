@@ -4,6 +4,21 @@
 
 [1]: https://www.npmjs.com/package/google-auth-library?activeTab=versions
 
+## [9.1.0](https://github.com/googleapis/google-auth-library-nodejs/compare/v9.0.0...v9.1.0) (2023-08-09)
+
+
+### Features
+
+* Byoid metrics ([#1595](https://github.com/googleapis/google-auth-library-nodejs/issues/1595)) ([fe09d6b](https://github.com/googleapis/google-auth-library-nodejs/commit/fe09d6b4eb5a8215d21564a97bcc7ea5beb570bf))
+
+
+### Bug Fixes
+
+* **deps:** Update dependency @google-cloud/storage to v7 ([#1629](https://github.com/googleapis/google-auth-library-nodejs/issues/1629)) ([8075b6f](https://github.com/googleapis/google-auth-library-nodejs/commit/8075b6fbb347067ec231134fb4388ab9bcd1bde0))
+* **deps:** Update dependency @googleapis/iam to v11 ([#1622](https://github.com/googleapis/google-auth-library-nodejs/issues/1622)) ([03c0ac9](https://github.com/googleapis/google-auth-library-nodejs/commit/03c0ac9950217ec08ac9ad66eaaa4e9a9e67d423))
+* **deps:** Update dependency google-auth-library to v9 ([#1618](https://github.com/googleapis/google-auth-library-nodejs/issues/1618)) ([1873fef](https://github.com/googleapis/google-auth-library-nodejs/commit/1873fefcdf4df00ff40b0f311e40dcdd402f799e))
+* **deps:** Update dependency puppeteer to v21 ([#1627](https://github.com/googleapis/google-auth-library-nodejs/issues/1627)) ([dd04fbd](https://github.com/googleapis/google-auth-library-nodejs/commit/dd04fbdeb17e457a09b06a4abc2aedf511f355ea))
+
 ## [9.0.0](https://github.com/googleapis/google-auth-library-nodejs/compare/v8.9.0...v9.0.0) (2023-07-20)
 
 
