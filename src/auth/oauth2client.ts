@@ -1055,7 +1055,7 @@ export class OAuth2Client extends AuthClient {
   }
 
   /**
-   * Verify id token is token by checking the certs and audience
+   * Verify id token is valid by checking the certs and audience
    * @param options that contains all options.
    * @param callback Callback supplying GoogleLogin if successful
    */
